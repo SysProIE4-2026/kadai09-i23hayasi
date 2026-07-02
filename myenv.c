@@ -95,8 +95,7 @@ PATH=/opt/homebrew/opt/openjdk/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr
 /run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var
 /run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var
 /run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal
-/bin:/pkg/env/global/bin
-                                                                               
+/bin:/pkg/env/global/bin                                                                        
 SHLVL=1
 PWD=/Users/m.hayashi/SysPro/kadai09-i23hayasi
 OLDPWD=/Users/m.hayashi/SysPro
